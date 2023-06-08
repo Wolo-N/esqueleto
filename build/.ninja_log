@@ -1,0 +1,17 @@
+# ninja log v5
+56	1001	1686250368892930273	CMakeFiles/editor.dir/Editor.cpp.o	3d357f64d2f7bd99
+56	1436	1686250369327358646	CMakeFiles/editor.dir/editor_main.cpp.o	a62045f9bc18467c
+1471	2415	1686250370304166460	editor	a391765a39f1da32
+57	2436	1686250370326828680	CMakeFiles/editor_tests.dir/Editor.cpp.o	4f34f1851f4c73f1
+62	5539	1686250373429753252	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	2a04a2193864f0b7
+57	7800	1686250375683776216	CMakeFiles/editor_tests.dir/editor_tests.cpp.o	672b5d7f91d6afcf
+59	7995	1686250375878743420	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	53359cf7339431ee
+57	10406	1686250378287699185	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	5dd1a58d0b13b573
+61	14490	1686250382366269414	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	ce580deee659e704
+14549	18268	1686250386160861396	lib/libgtestd.a	845569bf6cd4451f
+18271	18449	1686250386342531902	lib/libgtest_maind.a	4947431c6251f349
+18270	20102	1686250387994909249	lib/libgmockd.a	645ee92a037ad539
+20104	20300	1686250388192166690	lib/libgmock_maind.a	cef5996ac4d2f57d
+18450	25668	1686250393563786209	editor_tests	fc4347290a7f2048
+18450	25668	1686250393563786209	editor_tests[1]_tests.cmake	fc4347290a7f2048
+18450	25668	1686250393563786209	/workspaces/esqueleto/build/editor_tests[1]_tests.cmake	fc4347290a7f2048
